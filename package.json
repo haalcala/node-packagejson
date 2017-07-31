@@ -18,9 +18,17 @@
     "utility"
   ],
   "author": "Harold Alcala",
-  "license": "ISC",
+  "email": "harold.alcala@gmail.com",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
   "bugs": {
     "url": "https://github.com/haalcala/node-packagejson/issues"
   },
-  "homepage": "https://github.com/haalcala/node-packagejson#readme"
+  "homepage": "https://github.com/haalcala/node-packagejson#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
 }
