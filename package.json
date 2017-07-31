@@ -1,0 +1,26 @@
+{
+  "name": "node-packagejson",
+  "version": "1.0.0",
+  "description": "Find and load package.json of a node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haalcala/node-packagejson.git"
+  },
+  "keywords": [
+    "package",
+    "json",
+    "node",
+    "module",
+    "utility"
+  ],
+  "author": "Harold Alcala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haalcala/node-packagejson/issues"
+  },
+  "homepage": "https://github.com/haalcala/node-packagejson#readme"
+}
