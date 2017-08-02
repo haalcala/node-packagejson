@@ -14,7 +14,7 @@ describe("#getPackageInfo", function () {
 	it ("Find a node module and load package.info", function () {
 		var package_json = require("../index");
 
-		var json = package_json("mocha");
+		var json = package_json("missing");
 
 		console.log("json", json);
 
